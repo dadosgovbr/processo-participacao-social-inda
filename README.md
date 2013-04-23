@@ -1,13 +1,13 @@
-O objetivo deste documento é registrar o histórico de participação social nos projetos da Infraestrutura Nacional de Dados Abertos (INDA), bem como documentar as práticas e os processos utilizados para produzir colaborativamente com o cidadão os resultados esperados. Caso você tenha participado de alguma reunião ou atividade da INDA, serão muito bem vindas as suas contribuições ao conteúdo deste texto.
+O objetivo deste documento é registrar o histórico de participação social nos projetos da Infraestrutura Nacional de Dados Abertos (INDA), bem como documentar as práticas e os processos utilizados para produzir colaborativamente com o cidadão os resultados esperados. Caso você tenha participado de alguma reunião, atividade da INDA ou de qualquer outra maneira, serão muito bem vindas as suas contribuições ao conteúdo deste texto.
 
-O primeiro documento a ser disponibilizado é um release sobre o processo de participação social na INDA. Nele vamos tentar colocar os elementos que consideramos importantes para que esse processo e histórico não seja perdido.
+O primeiro documento a ser disponibilizado é um release sobre o processo de participação social na INDA. Nele vamos tentar colocar os elementos que consideramos importantes para que esse processo histórico não seja perdido.
 
 # O processo de participação social na INDA #
 
 
 ## Histórico ##
 
-A participação social permea os trabalhos da Infraestrutura Nacional de Dados Abertos - INDA desde o seu início. Em março de 2011, o Ministério do Planejamento, Orçamento e Gestão deu  início à construção do que viria a ser a INDA de uma forma colaborativa. Considerando o relacionamento entre os temas, convidou os participantes dos grupos de trabalho da e-PING (Padrões de Interoperabilidade de Governo Eletrônico) para pensar e definir quais seriam as ações de dados abertos do executivo federal para os próximos dois anos.
+A participação social permea os trabalhos da Infraestrutura Nacional de Dados Abertos desde o seu início. Em março de 2011, o Ministério do Planejamento, Orçamento e Gestão deu  início à construção colaborativa do que viria a ser a INDA. Considerando o relacionamento entre os temas, convidou os participantes dos grupos de trabalho da e-PING (Padrões de Interoperabilidade de Governo Eletrônico) para pensar e definir quais seriam as ações de dados abertos do executivo federal para os próximos dois anos.
 
 Em um [trabalho de um dia](http://thackdaydf.com.br/2011/02/links-inda/), servidores públicos do governo, de universidades e de vários poderes e esferas, reunídos na Escola Nacional de Administração Fazendária (ESAF), estabeleceram um conjunto de metas para se criar uma infraestrutura capaz de ajudar os interessados na publicação de dados abertos e facilitar o seu consumo. O evento também foi [acompanhado remotamente por ativistas digitais do grupo Transparência Hacker](https://groups.google.com/group/thackday/browse_thread/thread/f47d8c1a1a5545c4/833a2a6c782ddd8d?lnk=gst&q=INDA#833a2a6c782ddd8d), que há algum tempo já reivindicavam que o governo brasileiro se movimentasse no mesmo sentido que governos de outros países já vinham fazendo em direção à publicação de informações do setor público como dados abertos.
 
