@@ -17,11 +17,11 @@ Embora esse assunto já estivesse em debate nos grupos de discussões de ciberat
 Encarar as demandas e necessidades dos movimentos de abertura de dados governamentais é, para os Governos, além de um desafio de gestão da informação e radicalização da transparência, também uma oportunidade de se abrir para um processo de inovação aberta onde o conhecimento presente nos cérebros institucionais dos governos possam ser acessados de forma rápida, completa e desimpedida pelo conjunto da sociedade para conectarem-se numa grande rede de inteligência coletiva.
 
 
-## Histórico ##
+## Histórico da INDA ##
 
 A participação social permeia os trabalhos da Infraestrutura Nacional de Dados Abertos desde o seu início. Em março de 2011, o Ministério do Planejamento, Orçamento e Gestão deu  início à construção colaborativa do que viria a ser a INDA. Considerando o relacionamento entre os temas, convidou os participantes dos grupos de trabalho da e-PING (Padrões de Interoperabilidade de Governo Eletrônico) e interessados de outros órgãos para pensar e definir quais seriam as ações voltadas à construção de um ecossistema de dados abertos do executivo federal para os próximos dois anos.
 
-Em um [trabalho de um dia](http://thackdaydf.com.br/2011/02/links-inda/), servidores públicos do governo, de universidades e de vários poderes e esferas, reunídos na Escola Nacional de Administração Fazendária (ESAF), estabeleceram um conjunto de metas para se criar uma infraestrutura de governo capaz de ajudar os interessados na publicação de dados abertos. Além disso a proposta de infraestrutura que surgia alí visava estabelecer condições que facilitassem a utilização (consumo) dos dados por parte da população Brasileira. O evento também foi [acompanhado remotamente por ativistas digitais do grupo Transparência Hacker](https://groups.google.com/group/thackday/browse_thread/thread/f47d8c1a1a5545c4/833a2a6c782ddd8d?lnk=gst&q=INDA#833a2a6c782ddd8d), que há algum tempo já reivindicavam que o governo brasileiro se movimentasse para fomentar a publicação de informações do setor público como dados abertos, no mesmo sentido que governos de outros países já vinham fazendo.
+Em um [trabalho de um dia](http://wiki.gtinda.ibge.gov.br/WorkshopINDA20110301GT3.ashx), servidores públicos do governo, de universidades e de vários poderes e esferas, reunidos na Escola Nacional de Administração Fazendária (ESAF), estabeleceram um conjunto de metas para se criar uma infraestrutura de governo capaz de ajudar os interessados na publicação de dados abertos. Além disso a proposta de infraestrutura que surgia ali visava estabelecer condições que facilitassem a utilização (consumo) dos dados por parte da população Brasileira. O evento também foi [acompanhado remotamente por ciberativistas do grupo Transparência Hacker](https://groups.google.com/group/thackday/browse_thread/thread/f47d8c1a1a5545c4/833a2a6c782ddd8d?lnk=gst&q=INDA#833a2a6c782ddd8d), que há algum tempo já reivindicavam que o governo brasileiro se movimentasse para fomentar a publicação de informações do setor público como dados abertos, no mesmo sentido que governos de outros países já vinham fazendo.
 
 No mês seguinte, constatado o grande interesse social demonstrado pelas comunidades em participar ativamente dessa construção histórica, decidiu-se dar um passo adiante na promoção de abertura e colaboração. A equipe responsável decidiu abrir a participação na INDA não apenas para servidores públicos, extendendo para qualquer cidadão interessado, sem nenhuma restrição. Daí em diante, todas as reuniões da INDA passaram a ser abertas à participação de qualquer cidadão, tanto presencial quanto virtualmente. Além da divulgação habitual em sítio governamental, as reuniões eram anunciadas em grupos de emails e perfis de redes sociais. A [primeira reunião de planejamento da INDA](http://wiki.gtinda.ibge.gov.br/ReuniaoAcompanhamentoPlanejamento20110419.ashx) após a oficina inicial, em abril de 2011, já contou com transmissão de vídeo ao vivo para a internet ( _streaming_).
 
@@ -29,21 +29,20 @@ A interlocução com cidadãos interessados, em especial ativistas de grupos com
 
 Um dos casos de maior sucesso e mobilização dentre as atividades de colaboração da INDA foi o desenvolvimento do seu mais importante produto, o Portal Brasileiro de Dados Abertos, cuja história de desenvolvimento colaborativo atingiu repercussão internacional, tendo sido reproduzida pelo blog da Open Knowledge Foundation.
 
-## Abrindo Dados Abertamente ##
 
-(fonte: <http://br.okfn.org/2012/05/10/novo-portal-dados-gov-br-feito-pela-sociedade/>)
+## Abrindo Dados Abertamente ##
 
 O Ministério do Planejamento lançou, em 4 de maio de 2012, a versão definitiva do Portal Brasileiro de Dados Abertos. Em consonância com a política do governo federal de promover o uso do software livre na administração pública, o portal foi feito utilizando apenas soluções livres e de código aberto. Entre elas está o catálogo de dados CKAN, produzido pela Open Knowledge Foundation. Além disso, todo o processo de desenvolvimento do portal foi realizado com a participação de cidadãos interessados, numa maneira aberta de promover os dados abertos.
 
 O projeto de desenvolvimento do dados.gov.br leva o conceito da participação social ao extremo. Desde o princípio, as reuniões de planejamento e de desenvolvimento foram de participação aberta a qualquer cidadão interessado, anunciadas previamente em listas abertas de discussão na Internet e algumas delas (quando foi possível) contaram com transmissão ao vivo de vídeo para a Internet ( _webcast_).
 
-![Colaboradores fazendo planejamento das atividades portal](http://wiki.gtinda.ibge.gov.br/GetFile.aspx?Page=TerceiroRumblePortalDadosAbertos20110909&File=P09-09-11_14.5401.jpg)
+![Colaboradores fazendo planejamento das atividades portal](http://wiki.gtinda.ibge.gov.br/GetFile.aspx?Page=TerceiroRumblePortalDadosAbertos20110909&File=P09-09-11_14.5401.jpg)@50
 
-As reuniões de planejamento de atividades se deram da seguinte forma: as tarefas de desenvolvimento foram selecionadas por um processo de desenvolvimento ágil, no qual os presentes registrararam em pequenos bilhetes as ideias do que acharam necessário fazer. Ao final da rodada, os bilhetes foram agrupados, categorizados e priorizados. Ao final da reunião, os acontecimentos foram registrados numa wiki de acesso público, e as tarefas num gerenciador também publicamente visível.
+As reuniões de planejamento de atividades se davam da seguinte forma: as tarefas de desenvolvimento eram selecionadas por um processo de desenvolvimento ágil, no qual os presentes registravam em pequenos bilhetes as ideias do que achavam necessário fazer. Ao final da rodada, os bilhetes eram agrupados, categorizados e priorizados. Ao final de cada reunião, os acontecimentos registrados numa wiki de acesso público, e as tarefas num gerenciador também publicamente visível.
 
 ![Colaboradores desenvolvendo o portal](http://wiki.gtinda.ibge.gov.br/GetFile.aspx?Page=QuartoRumblePortalDadosAbertos20110930&File=photo.JPG)
 
-Tivemos a participação de pessoas da sociedade civil e de servidores públicos engajados, que colaboraram de diversas formas. Algumas pessoas participaram desde o início, enquanto outras deram uma contribuição pontual apenas em determinado momento. Tivemos contribuições na forma de desenvolvimento de software, design, arquitetura da informação, entre outros. Esta última foi iniciada com um experimento de “card sorting” realizado com os participantes do evento Campus Party 2012, em São Paulo. Essa sinergia entre governo e cidadão trabalhando juntos em prol do bem comum é o que entendemos por governo aberto.
+Tivemos a participação de pessoas da sociedade civil e de servidores públicos engajados, que colaboraram de diversas formas. Algumas pessoas participaram desde o início, enquanto outras deram contribuições pontuais apenas em determinados momentos. Tivemos contribuições na forma de desenvolvimento de software, design, arquitetura da informação, entre outros. Esta última foi iniciada com um experimento de “card sorting” realizado com os participantes do evento Campus Party 2012, em São Paulo. Essa sinergia entre governo e cidadãos trabalhando juntos em prol do bem comum é o que entendemos por governo aberto.
 
 ![Propostas da comunidade para o design do dados.gov.br](http://br.okfn.org/files/2012/05/identidade-Visual-do-Portal-de-Dados-Abertos-269x300.jpg)
 
@@ -51,9 +50,12 @@ O Portal passou por várias versões, mas destacamos a primeira (uma simples pá
 
 ![Proposta de identidade visual da versão beta do portal](http://wiki.gtinda.ibge.gov.br/GetFile.aspx?Page=TerceiroRumblePortalDadosAbertos20110909&File=capa_PortalDados-1.png)
 
-O dados.gov.br teve, na data de lançamento, 78 conjuntos de dados com 849 recursos. Esses foram catalogados, em sua maior parte, a paritr de um levantamento de dados que órgãos públicos já publicavam na internet, mas que até então estavam espalhados e não tinham um ponto central de acesso onde o cidadão pudesse encontrá-los. São, todavia, a ponta do _iceberg_ em relação ao que há para se abrir em se falando de dados públicos no Brasil.
+O dados.gov.br teve, na data de lançamento, 78 conjuntos de dados com 849 recursos. Esses foram catalogados, em sua maior parte, a partir de um levantamento de dados que órgãos públicos já disponibilizavam na Internet, mas que até então estavam espalhados e não tinham um ponto central de acesso onde o cidadão pudesse encontrá-los. São, todavia, a ponta do _iceberg_ do que há para se disponibilizar em formatos abertos e reprocessáveis, em relação aos dados públicos no Brasil.
 
 Reconhecendo isto e a urgência no atendimento à nova lei de acesso à informação, a Secretaria de Logística e Tecnologia da Informação (SLTI) promoveu, em julho de 2012, um _workshop_ para orientar aos órgãos públicos sobre como proceder para incluir seus dados no catálogo.
+
+(fonte: <http://br.okfn.org/2012/05/10/novo-portal-dados-gov-br-feito-pela-sociedade/>)
+
 
 ## De agora em diante ##
 
