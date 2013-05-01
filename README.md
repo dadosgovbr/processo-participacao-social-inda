@@ -9,7 +9,13 @@ O primeiro documento a ser disponibilizado é um release sobre o processo de par
 
 O Movimento mundial pela publicação de dados governamentais em formatos abertos, que teve suas primeiras manifestações práticas a partir do trabalho desenvolvido pela [My Society](http://www.mysociety.org/) no Reino Unido e [Gov Track](http://www.govtrack.us/) nos EUA, se funda basicamente na idéia de que os Governos devem se colocar como plataforma de colaboração e criação para seus cidadãos e demais gestores públicos. Como parte do conceito de Governo 2.0, a publicação de dados brutos em formatos abertos e reprocessáveis tem o poder de fertilizar o tecido social para o desenvolvimento de soluções que incrementem a cidadania, diminuam as desigualdades, e possibilitem o desenvolvimento e criação de novas arquiteturas e interfaces de colaboração na Participação Social.
 
+Embora esse assunto já estivesse em debate nos grupos de discussões de ciberativismo e blogosfera nacional, o Brasil faz sua primeira mobilização sobre o tema em Outubro de 2009 a partir da realização do primeiro [Transparência HackDay](http://blog.esfera.mobi/2009/09/30/transparencia-hackday-aquecimento/). O Primeiro ThackDay foi um encontro de dois dias inspirado nas maratonas hackers internacionais onde se estabelece um tema e os participantes elaboram produtos de conceito e/ou código. Nesse dia histórico, [dezenas de desenvolvedores, comunicadores, acadêmicos e demais entusiastas](http://blog.esfera.mobi/2009/09/28/quem-vai-participar-do-transparencia-hackday/) [se desafiaram a desenvolver conceitos ou aplicativos](http://blog.esfera.mobi/2009/10/05/balanco-thackday-1/) que, utilizando dados governamentais, contribuíssem com a cidadania utilizando a internet para melhorar a vida das pessoas. 
+
+![Primeiro Transparência Hackday](http://www.tiagodoria.com.br/coluna/wp-content/uploads/2009/10/thackday_05.jpg)
+![Primeiro ThackDay](http://www.tiagodoria.com.br/coluna/wp-content/uploads/2009/10/thackday_03.jpg)
+
 Encarar as demandas e necessidades dos movimentos de abertura de dados governamentais é, para os Governos, além de um desafio de gestão da informação e radicalização da transparência, também uma oportunidade de se abrir para um processo de inovação aberta onde o conhecimento presente nos cérebros institucionais dos governos possam ser acessados de forma rápida, completa e desimpedida pelo conjunto da sociedade para conectarem-se numa grande rede de inteligência coletiva.
+
 
 ## Histórico ##
 
