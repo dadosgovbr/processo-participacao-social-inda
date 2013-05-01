@@ -63,3 +63,23 @@ O atual Plano de Ação foi publicado em fevereiro de 2013 e define quais são a
 
 <http://dados.gov.br/ferramentas-colaboracao/>
 
+
+## Linha do Tempo ##
+
+* Março 2011
+	* Início à construção colaborativa do que viria a ser a INDA
+	* Primeiro workshop público de construção da INDA
+* Abril 2011
+	* Workshop público de construção da INDA - já com transmissão online
+* Setembro 2011
+	* Terceiro Rumble Portal Dados Abertos
+* Fevereiro 2012
+	* Cardsorting na Campus Party
+* Abril 2012
+	* Publicação da [Instrução Normativa da INDA](http://dados.gov.br/instrucao-normativa-da-inda/)
+* Maio 2012
+	* Versão definitiva do portal [Dados.gov.br](http://dados.gov.br) no ar
+* Julho 2012
+	* Workshop de Publicação de Dados no Catálogo
+* Fevereiro 2013
+	* Publicação do Atual Plano de Ação da INDA
