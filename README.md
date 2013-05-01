@@ -34,7 +34,7 @@ Um dos casos de maior sucesso e mobilização dentre as atividades de colaboraç
 
 O Ministério do Planejamento lançou, em 4 de maio de 2012, a versão definitiva do Portal Brasileiro de Dados Abertos. Em consonância com a política do governo federal de promover o uso do software livre na administração pública, o portal foi feito utilizando apenas soluções livres e de código aberto. Entre elas está o catálogo de dados CKAN, produzido pela Open Knowledge Foundation. Além disso, todo o processo de desenvolvimento do portal foi realizado com a participação de cidadãos interessados, numa maneira aberta de promover os dados abertos.
 
-O projeto de desenvolvimento do dados.gov.br leva o conceito da participação social ao extremo. Desde o princípio, as reuniões de planejamento e de desenvolvimento foram de participação aberta a qualquer cidadão interessado, anunciadas previamente em listas abertas de discussão na Internet e algumas delas (quando foi possível) contaram com transmissão ao vivo de vídeo para a Internet ( _webcast_).
+O projeto de desenvolvimento do dados.gov.br levou o conceito da participação social ao extremo. Desde o princípio, as reuniões de planejamento e de desenvolvimento foram de participação aberta a qualquer cidadão interessado, anunciadas previamente em listas abertas de discussão na Internet e algumas delas (quando foi possível) contaram com transmissão ao vivo de vídeo para a Internet ( _webcast_).
 
 ![Colaboradores fazendo planejamento das atividades portal](http://wiki.gtinda.ibge.gov.br/GetFile.aspx?File=/Participacao%20Social%20INDA/devs_spint_inda1.jpg)
 
@@ -42,9 +42,17 @@ As reuniões de planejamento de atividades se davam da seguinte forma: as tarefa
 
 ![Colaboradores desenvolvendo o portal](http://wiki.gtinda.ibge.gov.br/GetFile.aspx?File=/Participacao%20Social%20INDA/devs_spint_inda2.jpg)
 
-Tivemos a participação de pessoas da sociedade civil e de servidores públicos engajados, que colaboraram de diversas formas. Algumas pessoas participaram desde o início, enquanto outras deram contribuições pontuais apenas em determinados momentos. Tivemos contribuições na forma de desenvolvimento de software, design, arquitetura da informação, entre outros. Esta última foi iniciada com um experimento de “card sorting” realizado com os participantes do evento Campus Party 2012, em São Paulo. Essa sinergia entre governo e cidadãos trabalhando juntos em prol do bem comum é o que entendemos por governo aberto.
+O desenvolvimento e aperfeiçoamento do portal contou com a participação de pessoas da sociedade civil e de servidores públicos engajados, que colaboraram de diversas formas. Algumas pessoas participaram desde o início, enquanto outras deram contribuições pontuais apenas em determinados momentos. 
 
 ![Propostas da comunidade para o design do dados.gov.br](http://wiki.gtinda.ibge.gov.br/GetFile.aspx?File=/Participacao%20Social%20INDA/identidade-Visual-do-Portal-de-Dados-Abertos.jpg)
+
+Tivemos contribuições na forma de desenvolvimento de software, design, arquitetura da informação, entre outros. Esta última foi iniciada com um experimento de “card sorting” realizado com os participantes do evento Campus Party 2012, em São Paulo. 
+
+![Atividade de Card Sorting na Campus Party 2012](http://wiki.gtinda.ibge.gov.br/GetFile.aspx?File=/Participacao%20Social%20INDA/cardsorting3.jpg)
+
+O momento de maior mobilização em torno desse trabalho foi durante a realização da chamada pública para proposição e escolha da logo do portal. Em poucos dias, foram submetidas um total de 26 propostas de logo envolvendo aproximadamente 200 votantes que pontuaram, via ambiente online, as logos e provas de conceito propostas. Esse trabalho coletivo de priorização acabou por gerar uma nova rodada de contribuições que buscaram redesenhar os aspectos principais do logo vencedor, misturando os elementos das propostas mais priorizadas, numa lógica de liberdade de informação e recombinação própria das cibercomunidades. Essa sinergia entre governo e cidadãos trabalhando juntos em prol do bem comum é o que entendemos por governo aberto.
+
+![Mobilização para votação da logo do portal](http://wiki.gtinda.ibge.gov.br/GetFile.aspx?File=/Participacao%20Social%20INDA/escolha_Da_log_dadosgovbr.jpg)
 
 O Portal passou por várias versões, mas destacamos a primeira (uma simples página HTML com uma tagcloud do catálogo de dados), seguida de sua versão beta, um pouco mais elaborada e documentada, até sua versão atual, com um novo conjunto de funcionalidades e extenso material de consulta e aprendizado.
 
@@ -55,8 +63,6 @@ O dados.gov.br teve, na data de lançamento, 78 conjuntos de dados com 849 recur
 ![Versão atual do Portal dados.gov.br](http://wiki.gtinda.ibge.gov.br/GetFile.aspx?File=/Participacao%20Social%20INDA/dados_gov_br_atual.jpg)
 
 Reconhecendo isto e a urgência no atendimento à nova lei de acesso à informação, a Secretaria de Logística e Tecnologia da Informação (SLTI) promoveu, em julho de 2012, um _workshop_ para orientar aos órgãos públicos sobre como proceder para incluir seus dados no catálogo.
-
-(fonte: <http://br.okfn.org/2012/05/10/novo-portal-dados-gov-br-feito-pela-sociedade/>)
 
 
 ## De agora em diante ##
