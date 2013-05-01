@@ -36,21 +36,23 @@ O Ministério do Planejamento lançou, em 4 de maio de 2012, a versão definitiv
 
 O projeto de desenvolvimento do dados.gov.br leva o conceito da participação social ao extremo. Desde o princípio, as reuniões de planejamento e de desenvolvimento foram de participação aberta a qualquer cidadão interessado, anunciadas previamente em listas abertas de discussão na Internet e algumas delas (quando foi possível) contaram com transmissão ao vivo de vídeo para a Internet ( _webcast_).
 
-![Colaboradores fazendo planejamento das atividades portal](http://wiki.gtinda.ibge.gov.br/GetFile.aspx?Page=TerceiroRumblePortalDadosAbertos20110909&File=P09-09-11_14.5401.jpg)@50
+![Colaboradores fazendo planejamento das atividades portal](http://wiki.gtinda.ibge.gov.br/GetFile.aspx?File=/Participacao%20Social%20INDA/devs_spint_inda1.jpg)
 
 As reuniões de planejamento de atividades se davam da seguinte forma: as tarefas de desenvolvimento eram selecionadas por um processo de desenvolvimento ágil, no qual os presentes registravam em pequenos bilhetes as ideias do que achavam necessário fazer. Ao final da rodada, os bilhetes eram agrupados, categorizados e priorizados. Ao final de cada reunião, os acontecimentos registrados numa wiki de acesso público, e as tarefas num gerenciador também publicamente visível.
 
-![Colaboradores desenvolvendo o portal](http://wiki.gtinda.ibge.gov.br/GetFile.aspx?Page=QuartoRumblePortalDadosAbertos20110930&File=photo.JPG)
+![Colaboradores desenvolvendo o portal](http://wiki.gtinda.ibge.gov.br/GetFile.aspx?File=/Participacao%20Social%20INDA/devs_spint_inda2.jpg)
 
 Tivemos a participação de pessoas da sociedade civil e de servidores públicos engajados, que colaboraram de diversas formas. Algumas pessoas participaram desde o início, enquanto outras deram contribuições pontuais apenas em determinados momentos. Tivemos contribuições na forma de desenvolvimento de software, design, arquitetura da informação, entre outros. Esta última foi iniciada com um experimento de “card sorting” realizado com os participantes do evento Campus Party 2012, em São Paulo. Essa sinergia entre governo e cidadãos trabalhando juntos em prol do bem comum é o que entendemos por governo aberto.
 
-![Propostas da comunidade para o design do dados.gov.br](http://br.okfn.org/files/2012/05/identidade-Visual-do-Portal-de-Dados-Abertos-269x300.jpg)
+![Propostas da comunidade para o design do dados.gov.br](http://wiki.gtinda.ibge.gov.br/GetFile.aspx?File=/Participacao%20Social%20INDA/identidade-Visual-do-Portal-de-Dados-Abertos.jpg)
 
 O Portal passou por várias versões, mas destacamos a primeira (uma simples página HTML com uma tagcloud do catálogo de dados), seguida de sua versão beta, um pouco mais elaborada e documentada, até sua versão atual, com um novo conjunto de funcionalidades e extenso material de consulta e aprendizado.
 
-![Proposta de identidade visual da versão beta do portal](http://wiki.gtinda.ibge.gov.br/GetFile.aspx?Page=TerceiroRumblePortalDadosAbertos20110909&File=capa_PortalDados-1.png)
+![Proposta de identidade visual da versão beta do portal](http://wiki.gtinda.ibge.gov.br/GetFile.aspx?File=/Participacao%20Social%20INDA/capa_PortalDados-beta_70pc.png)
 
 O dados.gov.br teve, na data de lançamento, 78 conjuntos de dados com 849 recursos. Esses foram catalogados, em sua maior parte, a partir de um levantamento de dados que órgãos públicos já disponibilizavam na Internet, mas que até então estavam espalhados e não tinham um ponto central de acesso onde o cidadão pudesse encontrá-los. São, todavia, a ponta do _iceberg_ do que há para se disponibilizar em formatos abertos e reprocessáveis, em relação aos dados públicos no Brasil.
+
+![Versão atual do Portal dados.gov.br](http://wiki.gtinda.ibge.gov.br/GetFile.aspx?File=/Participacao%20Social%20INDA/dados_gov_br_atual.jpg)
 
 Reconhecendo isto e a urgência no atendimento à nova lei de acesso à informação, a Secretaria de Logística e Tecnologia da Informação (SLTI) promoveu, em julho de 2012, um _workshop_ para orientar aos órgãos públicos sobre como proceder para incluir seus dados no catálogo.
 
