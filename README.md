@@ -36,6 +36,7 @@ Tivemos a participação de pessoas da sociedade civil e de servidores públicos
 ![Propostas da comunidade para o design do dados.gov.br](http://br.okfn.org/files/2012/05/identidade-Visual-do-Portal-de-Dados-Abertos-269x300.jpg)
 
 O Portal passou por várias versões, mas destacamos a primeira (uma simples página HTML com uma tagcloud do catálogo de dados), seguida de sua versão beta, um pouco mais elaborada e documentada, até sua versão atual, com um novo conjunto de funcionalidades e extenso material de consulta e aprendizado.
+os próximos passos com relação à Experiência do Usuário e Interface são estabelecer parâmetros mínimos de acessibilidade para o portal, validando seu código no validador do W3C e atendendo às exigências da própria Lei de Acesso à Informação. A preocupação com o site como interface para prestação de serviços é importante para seu desenvolvimento de modo responsivo e completamente acessível, para que os dados dispostos estejam realmente à disposição de cada brasileiro. 
 
 ![Proposta de identidade visual da versão beta do portal](http://wiki.gtinda.ibge.gov.br/GetFile.aspx?Page=TerceiroRumblePortalDadosAbertos20110909&File=capa_PortalDados-1.png)
 
@@ -75,6 +76,8 @@ O atual Plano de Ação foi publicado em fevereiro de 2013 e define quais são a
 	* Terceiro Rumble Portal Dados Abertos
 * Fevereiro 2012
 	* Cardsorting na Campus Party
+* Março 2012
+	* Estudo e desenvolvimento das propostas de arquitetura de informação e re-design da página
 * Abril 2012
 	* Publicação da [Instrução Normativa da INDA](http://dados.gov.br/instrucao-normativa-da-inda/)
 * Maio 2012
