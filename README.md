@@ -1,4 +1,4 @@
-O objetivo deste documento é registrar o histórico de participação social nos projetos da Infraestrutura Nacional de Dados Abertos (INDA), bem como documentar as práticas e os processos utilizados para produzir colaborativamente, com o cidadão, os resultados esperados. Caso você tenha participado de alguma reunião, atividade da INDA ou de qualquer outra maneira, serão muito bem vindas as suas contribuições ao conteúdo deste texto.
+O objetivo deste documento é registrar o histórico de participação social nos projetos da Infra-estrutura Nacional de Dados Abertos (INDA), bem como documentar as práticas e os processos utilizados para produzir colaborativamente, com o cidadão, os resultados esperados. Caso você tenha participado de alguma reunião, atividade da INDA ou de qualquer outra maneira, serão muito bem vindas as suas contribuições ao conteúdo deste texto.
 
 O primeiro documento a ser disponibilizado é um release sobre o processo de participação social na INDA. Nele colocamos os elementos considerados importantes para que esse processo histórico não seja perdido.
 
@@ -27,7 +27,7 @@ O projeto de desenvolvimento do dados.gov.br leva o conceito da participação s
 
 ![Colaboradores fazendo planejamento das atividades portal](http://wiki.gtinda.ibge.gov.br/GetFile.aspx?Page=TerceiroRumblePortalDadosAbertos20110909&File=P09-09-11_14.5401.jpg)
 
-As reuniões de planejamento de atividades deram-se da seguinte forma: as tarefas de desenvolvimento foram selecionadas por um processo ágil, no qual os presentes registrararam em pequenos bilhetes as ideias do que acharam necessário fazer. Ao final da rodada, os bilhetes foram agrupados, categorizados e priorizados. Ao final da reunião, os acontecimentos foram registrados numa wiki de acesso público e as tarefas num gerenciador, também publicamente visível.
+As reuniões de planejamento de atividades deram-se da seguinte forma: as tarefas de desenvolvimento foram selecionadas por um processo ágil, no qual os presentes registraram em pequenos bilhetes as ideias do que acharam necessário fazer. Ao final da rodada, os bilhetes foram agrupados, categorizados e priorizados. Ao final da reunião, os acontecimentos foram registrados numa wiki de acesso público e as tarefas num gerenciador, também publicamente visível.
 
 ![Colaboradores desenvolvendo o portal](http://wiki.gtinda.ibge.gov.br/GetFile.aspx?Page=QuartoRumblePortalDadosAbertos20110930&File=photo.JPG)
 
@@ -39,7 +39,7 @@ O Portal passou por várias versões, mas destacamos a primeira (uma simples pá
 
 ![Proposta de identidade visual da versão beta do portal](http://wiki.gtinda.ibge.gov.br/GetFile.aspx?Page=TerceiroRumblePortalDadosAbertos20110909&File=capa_PortalDados-1.png)
 
-O dados.gov.br teve, na data de lançamento, 78 conjuntos de dados com 849 recursos. Esses foram catalogados, em sua maior parte, a paritr de um levantamento de dados que órgãos públicos já publicavam na internet, mas que até então estavam espalhados e não tinham um ponto central de acesso onde o cidadão pudesse encontrá-los. São, todavia, a ponta do _iceberg_ em relação ao que há para se abrir em se falando de dados públicos no Brasil.
+O dados.gov.br teve, na data de lançamento, 78 conjuntos de dados com 849 recursos. Esses foram catalogados, em sua maior parte, a partir de um levantamento de dados que órgãos públicos já publicavam na internet, mas que até então estavam espalhados e não tinham um ponto central de acesso onde o cidadão pudesse encontrá-los. São, todavia, a ponta do _iceberg_ em relação ao que há para se abrir em se falando de dados públicos no Brasil.
 
 Reconhecendo isto e a urgência no atendimento à nova lei de acesso à informação, a Secretaria de Logística e Tecnologia da Informação (SLTI) promoveu, em julho de 2012, um _workshop_ para orientar os órgãos públicos sobre como proceder para incluir seus dados no catálogo.
 
@@ -48,7 +48,7 @@ Reconhecendo isto e a urgência no atendimento à nova lei de acesso à informa�
 O primeiro ciclo de desenvolvimento da INDA, que contemplou os anos 2011 e 2012, foi considerado um sucesso, tendo como suas mais recentes entregas a [Instrução Normativa da INDA](http://dados.gov.br/instrucao-normativa-da-inda/), a criação do Comitê Gestor da INDA e o [Plano de Ação da INDA](http://wiki.gtinda.ibge.gov.br/GetFile.aspx?File=%2fGT1-Gest%c3%a3o%20e%20Normativo%2fPlano%20de%20A%c3%a7%c3%a3o%20-%20INDA%2005.02.2013.odt).
 
 A Instrução Normativa foi o instrumento que instituiu legalmente a INDA, gerando a obrigação de se criar o Comitê Gestor e o Plano de Ação. O comitê é composto por órgãos do poder executivo federal e dois membros da sociedade civil e possui, dentre suas atribuições, a aprovação do Plano de Ação que planeja as ações da INDA para o próximo biênio.
-O atual Plano de Ação foi publicado em fevereiro de 2013 e define quais são as ações da INDA para 2013 e 2014. O próximo desafio da infraestrutura é remodelar seu processo de participação social para que, no segundo ciclo de implementação, consiga aproximar ainda mais o governo e o cidadão e crie mais produtos de forma colaborativa.
+O atual Plano de Ação foi publicado em fevereiro de 2013 e define quais são as ações da INDA para 2013 e 2014. O próximo desafio da infra-estrutura é remodelar seu processo de participação social para que, no segundo ciclo de implementação, consiga aproximar ainda mais o governo e o cidadão e crie mais produtos de forma colaborativa.
 
 ## Notícias sobre o processo de participação ##
 
