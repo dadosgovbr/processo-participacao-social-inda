@@ -54,6 +54,7 @@ O momento de maior mobilização em torno desse trabalho foi durante a realizaç
 ![Mobilização para votação da logo do portal](http://wiki.gtinda.ibge.gov.br/GetFile.aspx?File=/Participacao%20Social%20INDA/escolha_Da_log_dadosgovbr.jpg)
 
 O Portal passou por várias versões, mas destacamos a primeira (uma simples página HTML com uma tagcloud do catálogo de dados), seguida de sua versão beta, um pouco mais elaborada e documentada, até sua versão atual, com um novo conjunto de funcionalidades e extenso material de consulta e aprendizado.
+os próximos passos com relação à Experiência do Usuário e Interface são estabelecer parâmetros mínimos de acessibilidade para o portal, validando seu código no validador do W3C e atendendo às exigências da própria Lei de Acesso à Informação. A preocupação com o site como interface para prestação de serviços é importante para seu desenvolvimento de modo responsivo e completamente acessível, para que os dados dispostos estejam realmente à disposição de cada brasileiro. 
 
 ![Proposta de identidade visual da versão beta do portal](http://wiki.gtinda.ibge.gov.br/GetFile.aspx?File=/Participacao%20Social%20INDA/capa_PortalDados-beta_70pc.png)
 
@@ -98,6 +99,8 @@ A abordagem aberta e colaborativa do desenvolvimento da INDA é um excelente exe
 	* Terceiro Rumble Portal Dados Abertos
 * Fevereiro 2012
 	* Cardsorting na Campus Party
+* Março 2012
+	* Estudo e desenvolvimento das propostas de arquitetura de informação e re-design da página
 * Abril 2012
 	* Publicação da [Instrução Normativa da INDA](http://dados.gov.br/instrucao-normativa-da-inda/)
 	* Versão definitiva do portal [Dados.gov.br](http://dados.gov.br) no ar
