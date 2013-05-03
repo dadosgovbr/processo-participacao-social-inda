@@ -54,7 +54,7 @@ O momento de maior mobilização em torno desse trabalho foi durante a realizaç
 ![Mobilização para votação da logo do portal](http://wiki.gtinda.ibge.gov.br/GetFile.aspx?File=/Participacao%20Social%20INDA/escolha_Da_log_dadosgovbr.jpg)
 
 O Portal passou por várias versões, mas destacamos a primeira (uma simples página HTML com uma tagcloud do catálogo de dados), seguida de sua versão beta, um pouco mais elaborada e documentada, até sua versão atual, com um novo conjunto de funcionalidades e extenso material de consulta e aprendizado.
-os próximos passos com relação à Experiência do Usuário e Interface são estabelecer parâmetros mínimos de acessibilidade para o portal, validando seu código no validador do W3C e atendendo às exigências da própria Lei de Acesso à Informação. A preocupação com o site como interface para prestação de serviços é importante para seu desenvolvimento de modo responsivo e completamente acessível, para que os dados dispostos estejam realmente à disposição de cada brasileiro. 
+Os próximos passos com relação à Experiência do Usuário e Interface são estabelecer parâmetros mínimos de acessibilidade para o portal, validando seu código no validador do W3C e atendendo às exigências do [Decreto 5.296/2004](http://www.lexml.gov.br/urn/urn:lex:br:federal:decreto:2004-12-02;5296). A preocupação com uma interface do portal responsiva e completamente acessível é importante para que o acesso aos dados seja realmente universal a todos os brasileiros.
 
 ![Proposta de identidade visual da versão beta do portal](http://wiki.gtinda.ibge.gov.br/GetFile.aspx?File=/Participacao%20Social%20INDA/capa_PortalDados-beta_70pc.png)
 
@@ -130,7 +130,7 @@ detalhes pode ser consultada no Portal Brasileiro de Dados Abertos.
     * [2ª sprint review e retrospectiva do desenvolvimento do dados.gov.br](http://wiki.gtinda.ibge.gov.br/2a-sprint-review-e-retrospectiva-Portal-Brasileiro-de-dados-abertos.ashx)
 * Março / 2012
     * [3ª sprint review e retrospectiva do desenvolvimento do dados.gov.br](http://wiki.gtinda.ibge.gov.br/3a-sprint-review-e-retrospectiva-Portal-Brasileiro-de-dados-abertos.ashx)
-	* Estudo e desenvolvimento das propostas de arquitetura de informação e re-design da página
+	* Estudo e desenvolvimento das propostas de arquitetura de informação e _re-design_ da página
     * [4ª sprint review e retrospectiva do desenvolvimento do dados.gov.br](http://wiki.gtinda.ibge.gov.br/4a-sprint-review-e-retrospectiva-Portal-Brasileiro-de-dados-abertos.ashx)
     * [Décimo Rumble Portal Dados Abertos](http://wiki.gtinda.ibge.gov.br/Decimo-Rumble-de-Desenvolvimento-do-Portal-Brasileiro-de-Dados-Abertos.ashx)
     * [XI Rumble Portal Dados Abertos](http://wiki.gtinda.ibge.gov.br/XI-Humble-Rumble-de-Desenvolvimento-do-Portal-Brasileiro-de-Dados-Abertos.ashx)
