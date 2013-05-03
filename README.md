@@ -85,8 +85,20 @@ A abordagem aberta e colaborativa do desenvolvimento da INDA é um excelente exe
 
 ## Ferramentas utilizadas no processo de colaboração ##
 
-* <http://dados.gov.br/ferramentas-colaboracao/>
+Foram utilizados vários tipos de ferramentas no processo de colaboração,
+cada qual adequada para sua respectiva finalidade:
 
+* _Streaming_ de áudio e vídeo
+* Listas de discussão por e-mail
+* Wiki
+* Edição de documentos colaborativa
+* Marcação e anotação de textos colaborativas
+* Bate-papo / mensagem instantânea
+* Ferramenta de tíquetes / controle de atividades
+* Microblog
+
+A [lista completa](http://dados.gov.br/ferramentas-colaboracao/) com maiores
+detalhes pode ser consultada no Portal Brasileiro de Dados Abertos.
 
 ## Linha do Tempo ##
 
