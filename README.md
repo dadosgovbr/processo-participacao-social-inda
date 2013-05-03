@@ -45,7 +45,7 @@ O desenvolvimento e aperfeiçoamento do portal contou com a participação de pe
 
 ![Propostas da comunidade para o design do dados.gov.br](http://wiki.gtinda.ibge.gov.br/GetFile.aspx?File=/Participacao%20Social%20INDA/identidade-Visual-do-Portal-de-Dados-Abertos.jpg)
 
-Tivemos contribuições na forma de desenvolvimento de software, design, arquitetura da informação, entre outros. Esta última foi iniciada com um experimento de “_card sorting_” realizado com os participantes do evento [Campus Party 2012](http://www.campus-party.com.br/2012/), em São Paulo. 
+Tivemos contribuições na forma de desenvolvimento de software, design, arquitetura da informação, entre outros. Esta última foi iniciada com um experimento de “ _card sorting_” realizado com os participantes do evento [Campus Party 2012](http://www.campus-party.com.br/2012/), em São Paulo. 
 
 ![Atividade de Card Sorting na Campus Party 2012](http://wiki.gtinda.ibge.gov.br/GetFile.aspx?File=/Participacao%20Social%20INDA/cardsorting3.jpg)
 
