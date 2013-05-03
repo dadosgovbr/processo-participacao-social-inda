@@ -102,22 +102,46 @@ detalhes pode ser consultada no Portal Brasileiro de Dados Abertos.
 
 ## Linha do Tempo ##
 
-* Março 2011
+* Março / 2011
 	* Início à construção colaborativa do que viria a ser a INDA
-	* Primeiro workshop público de construção da INDA
-* Abril 2011
-	* Workshop público de construção da INDA - já com transmissão online
-* Setembro 2011
-	* Terceiro Rumble Portal Dados Abertos
-* Fevereiro 2012
+	* [Primeiro workshop](http://wiki.gtinda.ibge.gov.br/WorkshopINDA20110301GT3.ashx) público de construção da INDA
+* Abril / 2011
+	* [Workshop público de construção da INDA](http://wiki.gtinda.ibge.gov.br/ReuniaoAcompanhamentoPlanejamento20110419.ashx) - já com [transmissão online](http://www.youtube.com/watch?v=poN5cIQPz-8)
+* Maio / 2011
+    * [Verificação e aprovação do Plano de trabalho da INDA](http://wiki.gtinda.ibge.gov.br/VerificacaoAprovacaoPlanoTrabalho20110511.ashx)
+* Julho / 2011
+    * [Reunião de acompanhamento do plano de projeto](http://wiki.gtinda.ibge.gov.br/Reuniao-de-acompanhamento-do-plano-de-projeto.ashx)
+* Agosto / 2011
+    * [Segundo Rumble Portal Dados Abertos](http://wiki.gtinda.ibge.gov.br/SegundoRumblePortalDadosAbertos20110819.ashx)
+* Setembro / 2011
+	* [Terceiro Rumble Portal Dados Abertos](http://wiki.gtinda.ibge.gov.br/TerceiroRumblePortalDadosAbertos20110909.ashx)
+    * [Quarto Rumble Portal Dados Abertos](http://wiki.gtinda.ibge.gov.br/QuartoRumblePortalDadosAbertos20110930.ashx)
+* Outubro / 2011
+    * [Reunião para discussão da Minuta da Instrução Normativa da INDA](http://wiki.gtinda.ibge.gov.br/Reuniao-Minuta-da-Instrucao-Normativa.ashx)
+    * Audiência Pública da Instrução Normativa da INDA
+    * [I Encontro Nacional de Dados Abertos](http://wiki.gtinda.ibge.gov.br/I-Encontro-Nacional-de-Dados-Abertos.ashx)
+* Novembro / 2011
+    * [Sétimo Rumble Portal Dados Abertos](http://wiki.gtinda.ibge.gov.br/SetimoRumblePortalDadosAbertos20111125.ashx)
+* Janeiro / 2012
+    * [Oitavo Rumble Portal Dados Abertos](http://wiki.gtinda.ibge.gov.br/OitavoRumblePortalDadosAbertos20120120.ashx)
+* Fevereiro / 2012
 	* Cardsorting na Campus Party
-* Março 2012
+    * [Nono Rumble Portal Dados Abertos](http://wiki.gtinda.ibge.gov.br/NonoRumblePortalDadosAbertos20120203.ashx)
+    * [2ª sprint review e retrospectiva do desenvolvimento do dados.gov.br](http://wiki.gtinda.ibge.gov.br/2a-sprint-review-e-retrospectiva-Portal-Brasileiro-de-dados-abertos.ashx)
+* Março / 2012
+    * [3ª sprint review e retrospectiva do desenvolvimento do dados.gov.br](http://wiki.gtinda.ibge.gov.br/3a-sprint-review-e-retrospectiva-Portal-Brasileiro-de-dados-abertos.ashx)
 	* Estudo e desenvolvimento das propostas de arquitetura de informação e re-design da página
-* Abril 2012
+    * [4ª sprint review e retrospectiva do desenvolvimento do dados.gov.br](http://wiki.gtinda.ibge.gov.br/4a-sprint-review-e-retrospectiva-Portal-Brasileiro-de-dados-abertos.ashx)
+    * [Décimo Rumble Portal Dados Abertos](http://wiki.gtinda.ibge.gov.br/Decimo-Rumble-de-Desenvolvimento-do-Portal-Brasileiro-de-Dados-Abertos.ashx)
+    * [XI Rumble Portal Dados Abertos](http://wiki.gtinda.ibge.gov.br/XI-Humble-Rumble-de-Desenvolvimento-do-Portal-Brasileiro-de-Dados-Abertos.ashx)
+* Abril / 2012
 	* Publicação da [Instrução Normativa da INDA](http://dados.gov.br/instrucao-normativa-da-inda/)
-	* Versão definitiva do portal [Dados.gov.br](http://dados.gov.br) no ar
-* Julho 2012
-	* Workshop de Publicação de Dados no Catálogo
-* Fevereiro 2013
-	* Publicação do Atual Plano de Ação da INDA
+* Maio / 2012
+	* [Lançamento](http://www.youtube.com/watch?v=Ygoy5Zo_y88) da versão definitiva do portal [dados.gov.br](http://dados.gov.br) no ar
+* Julho / 2012
+	* [Workshop de Publicação de Dados no Catálogo](http://wiki.gtinda.ibge.gov.br/Workshop-de-catalogacao-no-dados-gov-br.ashx)
+* Fevereiro / 2013
+	* Aprovação e publicação do Atual [Plano de Ação da INDA](http://wiki.gtinda.ibge.gov.br/GetFile.aspx?File=%2fGT1-Gest%c3%a3o%20e%20Normativo%2fPlano%20de%20A%c3%a7%c3%a3o%20-%20INDA%2005.02.2013.odt)
+
+A [lista completa](http://wiki.gtinda.ibge.gov.br/Agenda-do-GT.ashx) dos eventos da INDA pode ser consultada na wiki.
 
