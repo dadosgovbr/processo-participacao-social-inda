@@ -76,12 +76,12 @@ A abordagem aberta e colaborativa do desenvolvimento da INDA é um excelente exe
 
 ## Notícias sobre o processo de participação ##
 
-* <http://br.okfn.org/2012/05/10/novo-portal-dados-gov-br-feito-pela-sociedade/>
-* <http://blog.okfn.org/2012/05/10/new-brazilian-portal-dados-gov-br-made-by-citizens/>
-* <http://ckan.org/2012/08/28/ckan-brazil/>
-* <http://blog.okfn.org/2011/06/09/sprint-for-brazilian-data-catalogue-dados-gov-br/>
-* <http://blog.okfn.org/2012/09/05/building-a-data-portal-with-ckan/>
-* <http://dados.gov.br/noticia/sociedade-civil-produz-aplicativos-a-partir-de-dados-governamentais/>
+* Novo Portal dados.gov.br, Feito Pela Sociedade <http://br.okfn.org/2012/05/10/novo-portal-dados-gov-br-feito-pela-sociedade/>
+* New Brazilian Data Portal dados.gov.br – Powered by CKAN <http://blog.okfn.org/2012/05/10/new-brazilian-portal-dados-gov-br-made-by-citizens/>
+* Using CKAN: building a Brazilian government data portal <http://ckan.org/2012/08/28/ckan-brazil/>
+* Sprint for Brazilian Data Catalogue dados.gov.br <http://blog.okfn.org/2011/06/09/sprint-for-brazilian-data-catalogue-dados-gov-br/>
+* Building a Data Portal With CKAN <http://blog.okfn.org/2012/09/05/building-a-data-portal-with-ckan/>
+* Sociedade civil produz aplicativos a partir de dados governamentais <http://dados.gov.br/noticia/sociedade-civil-produz-aplicativos-a-partir-de-dados-governamentais/>
 
 ## Ferramentas utilizadas no processo de colaboração ##
 
@@ -91,7 +91,8 @@ cada qual adequada para sua respectiva finalidade:
 * _Streaming_ de áudio e vídeo
 * Listas de discussão por e-mail
 * Wiki
-* Edição de documentos colaborativa
+* Edição colaborativa de documentos
+* Sistema de versionamento de código distribuído
 * Marcação e anotação de textos colaborativas
 * Bate-papo / mensagem instantânea
 * Ferramenta de tíquetes / controle de atividades
