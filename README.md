@@ -142,7 +142,7 @@ detalhes pode ser consultada no Portal Brasileiro de Dados Abertos.
 * Julho / 2012
 	* [Workshop de Publicação de Dados no Catálogo](http://wiki.gtinda.ibge.gov.br/Workshop-de-catalogacao-no-dados-gov-br.ashx)
 * Fevereiro / 2013
-	* Aprovação e publicação do Atual [Plano de Ação da INDA](http://wiki.gtinda.ibge.gov.br/GetFile.aspx?File=%2fGT1-Gest%c3%a3o%20e%20Normativo%2fPlano%20de%20A%c3%a7%c3%a3o%20-%20INDA%2005.02.2013.odt)
+	* Aprovação e publicação do [Plano de Ação da INDA](http://wiki.gtinda.ibge.gov.br/GetFile.aspx?File=%2fGT1-Gest%c3%a3o%20e%20Normativo%2fPlano%20de%20A%c3%a7%c3%a3o%20-%20INDA%2005.02.2013.odt)
 
 A [lista completa](http://wiki.gtinda.ibge.gov.br/Agenda-do-GT.ashx) dos eventos da INDA pode ser consultada na wiki.
 
